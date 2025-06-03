@@ -5,10 +5,7 @@ O WannaCry é um dos ransomwares mais famosos da história da cibersegurança. E
 
 🧨 O que o WannaCry fazia?
 
-Ele criptografava os arquivos do computador da vítima e exibia uma mensagem exigindo um resgate em Bitcoin para descriptografá-los. A tela tinha um cronômetro, e se o pagamento não fosse feito a tempo, os arquivos seriam “perdidos para sempre” (ou era isso que o malware dizia).
-
-⸻
-
+Ele criptografava os arquivos do computador da vítima e exibia uma mensagem exigindo um resgate em Bitcoin para descriptografá-los. A tela tinha um cronômetro, e se o pagamento não fosse feito a tempo, os arquivos seriam perdidos para sempre.
 🧠 Como ele funcionava?
 
 O WannaCry se aproveitou de uma vulnerabilidade crítica no Windows, chamada EternalBlue, que foi desenvolvida pela NSA (Agência de Segurança Nacional dos EUA) e vazada pelo grupo Shadow Brokers.
@@ -20,21 +17,15 @@ Em resumo:
  2. Se propagava automaticamente em redes internas (worm).
  3. Criptografava tudo e cobrava resgate.
 
-⸻
-
 🏥 Quem foi afetado?
  • Hospitais britânicos (NHS): cancelaram cirurgias, perderam acesso a registros médicos.
  • Renault, Nissan: fábricas paralisadas.
  • FedEx, Telefónica, universidades na China.
  • Até caixas eletrônicos travaram em alguns lugares.
 
-⸻
-
 🔐 Como foi contido?
 
 Um pesquisador conhecido como MalwareTech descobriu um “kill switch” embutido no malware: o WannaCry tentava se conectar a um domínio aleatório, e se tivesse resposta, parava. O pesquisador registrou esse domínio — e isso interrompeu boa parte do ataque.
-
-⸻
 
 🧬 Curiosidades Técnicas
  • Linguagem: O dropper principal do WannaCry era escrito em C e C++.
