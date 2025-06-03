@@ -1,0 +1,2 @@
+# wannacry
+ransomware wannacry
