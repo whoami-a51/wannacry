@@ -1,6 +1,4 @@
-O WannaCry (ou WannaCrypt, Wana Decrypt0r 2.0) é um dos ransomwares mais famosos da história da cibersegurança. Ele foi responsável por um ataque global em maio de 2017, afetando mais de 200 mil computadores em 150 países.
-
-⸻
+O WannaCry é um dos ransomwares mais famosos da história da cibersegurança. Ele foi responsável por um ataque global em maio de 2017, criptografandos mais de 200 mil computadores em 150 países.
 
 ![descrição](/imgs/wannacry.png)
 
