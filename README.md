@@ -27,6 +27,11 @@ Em resumo:
 
 Um pesquisador conhecido como MalwareTech descobriu um “kill switch” embutido no malware: o WannaCry tentava se conectar a um domínio aleatório, e se tivesse resposta, parava. O pesquisador registrou esse domínio — e isso interrompeu boa parte do ataque.
 
+O acesso remoto aos computadores para a execução do WannaCry foi feito atráves da vulnerabilidade no SMB1 - vazada da NSA - e uso do exploit Eternablue.
+
+![descrição](/imgs/eternablue.png)
+
+
 🧬 Curiosidades Técnicas
  • Linguagem: O dropper principal do WannaCry era escrito em C e C++.
  • Criptografia usada: RSA + AES.
