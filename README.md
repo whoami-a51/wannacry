@@ -1,9 +1,9 @@
-O WannaCry é um dos ransomwares mais famosos da história da cibersegurança. Ele foi responsável por um ataque global em maio de 2017, criptografando mais de 200 mil computadores em 150 países.  
-
 🚫 Aviso Legal
 
 Este material é disponibilizado exclusivamente para fins educacionais e de pesquisa em segurança cibernética. O uso indevido pode configurar crime previsto em lei.
-``` NÃO FAÇA O DOWNLOAD E EXECUTE EM SEU COMPUTADOR PESSOAL. ```
+``` NÃO FAÇA O DOWNLOAD E EXECUTE EM SEU COMPUTADOR PESSOAL. ```  
+
+O WannaCry é um dos ransomwares mais famosos da história da cibersegurança. Ele foi responsável por um ataque global em maio de 2017, criptografando mais de 200 mil computadores em 150 países.  
 
 ![descrição](/imgs/wannacry.png)  
 
