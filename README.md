@@ -18,10 +18,10 @@ Em resumo:
  3. Criptografava tudo e cobrava resgate.
 
 🏥 Quem foi afetado?
- • Hospitais britânicos (NHS): cancelaram cirurgias, perderam acesso a registros médicos.
- • Renault, Nissan: fábricas paralisadas.
- • FedEx, Telefónica, universidades na China.
- • Até caixas eletrônicos travaram em alguns lugares.
+  • Hospitais britânicos (NHS): cancelaram cirurgias, perderam acesso a registros médicos.
+  • Renault, Nissan: fábricas paralisadas.
+  • FedEx, Telefónica, universidades na China.
+  • Até caixas eletrônicos travaram em alguns lugares.
 
 🔐 Como foi contido?
 
@@ -33,7 +33,7 @@ O acesso remoto aos computadores para a execução do WannaCry foi feito atráve
 
 
 🧬 Curiosidades Técnicas
- • Linguagem: O dropper principal do WannaCry era escrito em C e C++.
- • Criptografia usada: RSA + AES.
- • Porta usada para se propagar: TCP 445 (SMB).
- • A Microsoft lançou um patch antes do ataque, mas muitos sistemas (principalmente Windows XP e Windows 7) não estavam atualizados.
+  • Linguagem: O dropper principal do WannaCry era escrito em C e C++.
+  • Criptografia usada: RSA + AES.
+  • Porta usada para se propagar: TCP 445 (SMB).
+  • A Microsoft lançou um patch antes do ataque, mas muitos sistemas (principalmente Windows XP e Windows 7) não estavam atualizados.
