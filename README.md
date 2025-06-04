@@ -18,6 +18,7 @@ Em resumo:
  3. Criptografava tudo e cobrava resgate.  
 
 🏥 Quem foi afetado?  
+
   • Hospitais britânicos (NHS): cancelaram cirurgias, perderam acesso a registros médicos.  
   • Renault, Nissan: fábricas paralisadas.  
   • FedEx, Telefónica, universidades na China.  
@@ -33,6 +34,7 @@ O acesso remoto aos computadores para a execução do WannaCry foi feito atráve
 
 
 🧬 Curiosidades Técnicas  
+
   • Linguagem: O dropper principal do WannaCry era escrito em C e C++.  
   • Criptografia usada: RSA + AES.  
   • Porta usada para se propagar: TCP 445 (SMB).  
