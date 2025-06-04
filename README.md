@@ -12,16 +12,16 @@ O WannaCry se aproveitou de uma vulnerabilidade crítica no Windows, chamada Ete
 
 Essa falha permitia execução remota de código no protocolo SMB (Server Message Block), usado para compartilhamento de arquivos em redes Windows.
 
-Em resumo:
- 1. Ele explorava a falha SMBv1 para se infiltrar.
- 2. Se propagava automaticamente em redes internas (worm).
- 3. Criptografava tudo e cobrava resgate.
+Em resumo:  
+ 1. Ele explorava a falha SMBv1 para se infiltrar.  
+ 2. Se propagava automaticamente em redes internas (worm).  
+ 3. Criptografava tudo e cobrava resgate.  
 
-🏥 Quem foi afetado?
-  • Hospitais britânicos (NHS): cancelaram cirurgias, perderam acesso a registros médicos.
-  • Renault, Nissan: fábricas paralisadas.
-  • FedEx, Telefónica, universidades na China.
-  • Até caixas eletrônicos travaram em alguns lugares.
+🏥 Quem foi afetado?  
+  • Hospitais britânicos (NHS): cancelaram cirurgias, perderam acesso a registros médicos.  
+  • Renault, Nissan: fábricas paralisadas.  
+  • FedEx, Telefónica, universidades na China.  
+  • Até caixas eletrônicos travaram em alguns lugares.  
 
 🔐 Como foi contido?
 
