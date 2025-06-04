@@ -32,8 +32,8 @@ O acesso remoto aos computadores para a execução do WannaCry foi feito atráve
 ![descrição](/imgs/eternablue.png)
 
 
-🧬 Curiosidades Técnicas
-  • Linguagem: O dropper principal do WannaCry era escrito em C e C++.
-  • Criptografia usada: RSA + AES.
-  • Porta usada para se propagar: TCP 445 (SMB).
+🧬 Curiosidades Técnicas  
+  • Linguagem: O dropper principal do WannaCry era escrito em C e C++.  
+  • Criptografia usada: RSA + AES.  
+  • Porta usada para se propagar: TCP 445 (SMB).  
   • A Microsoft lançou um patch antes do ataque, mas muitos sistemas (principalmente Windows XP e Windows 7) não estavam atualizados.
