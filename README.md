@@ -34,7 +34,6 @@ Um pesquisador conhecido como MalwareTech descobriu um “kill switch” embutid
 
 O acesso remoto aos computadores para a execução do WannaCry foi feito atráves da vulnerabilidade no SMB1 - vazada da NSA - e uso do exploit Eternablue.
 
-![descrição](/imgs/eternablue.png)
 
 
 🧬 Curiosidades Técnicas  
