@@ -10,6 +10,7 @@ O WannaCry é um dos ransomwares mais famosos da história da cibersegurança. E
 🧨 O que o WannaCry fazia?
 
 Ele criptografava os arquivos do computador da vítima e exibia uma mensagem exigindo um resgate em Bitcoin para descriptografá-los. A tela tinha um cronômetro, e se o pagamento não fosse feito a tempo, os arquivos seriam perdidos para sempre.
+
 🧠 Como ele funcionava?
 
 O WannaCry se aproveitou de uma vulnerabilidade crítica no Windows, chamada EternalBlue, que foi desenvolvida pela NSA (Agência de Segurança Nacional dos EUA) e vazada pelo grupo Shadow Brokers.
